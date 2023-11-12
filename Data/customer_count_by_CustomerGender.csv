@@ -1,4 +1,4 @@
-CustomerID
-61253
-128585
-528212
+CustomerGender,CustomerID
+Female,61253
+Male,128585
+Unknown,528212
